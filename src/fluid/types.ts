@@ -19,9 +19,6 @@ export type Config = {
   SPLAT_RADIUS: number;
   SPLAT_FORCE: number;
   COLOR_UPDATE_SPEED: number;
-  PAUSED: boolean;
-  BACK_COLOR: RGB;
-  TRANSPARENT: boolean;
 };
 
 export type Pointer = {

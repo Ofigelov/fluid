@@ -12,3 +12,7 @@ export * from "./HSVtoRGB";
 export * from "./generateColor";
 export * from "./hashCode";
 export * from "./makePointer";
+export * from "./updatePointerMoveData";
+export * from "./updatePointerDownData";
+export * from "./step";
+export * from "./splat";
